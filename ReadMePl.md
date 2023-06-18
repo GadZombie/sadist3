@@ -220,7 +220,7 @@ chce, ten gra!
 
 Wszyscy, którzy mają ochotę coś powiedzieć o wrażeniach dotyczących Sadist 3, 
 mogą pisać do mnie maile lub wpisywać się w komentarzach do gry na stronie 
-https://gadz.pl.
+https://gadz.pl/sadist-3 .
 
 Miłego zabijania życzy autor. I dzięki za wsparcie przez tamte lata, kiedy S2 
 miał swoje pięć minut!

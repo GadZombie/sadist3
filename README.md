@@ -14,7 +14,7 @@ It would be also great idea to recreate it as Sadist 4, use a better modern tech
 
 # Website
 
-The 'Sadist 3' website is available at https://gadz.pl/opis.php?i=369
+The 'Sadist 3' website is available at https://gadz.pl/sadist-3
 You can download working game there, find some videos, screenshots, descriptions etc.
 
 A video gameplay is here: https://www.youtube.com/watch?v=98r0f8bTgcM
